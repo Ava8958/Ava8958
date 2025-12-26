@@ -1,5 +1,5 @@
 # 💫 About Me:
-I work on Machine Learning and Data Science projects, enjoy collaborating on real-world and open-source ML problems, and am currently learning Deep Learning, NLP, and MLOps. Feel free to ask me about Python, SQL, analytics, and ML, fun fact: I love blending data with creativity and strategy.
+I am gaining experiance in Machine Learning and Data Science projects, enjoy collaborating on real-world and open-source ML problems, and am currently learning Deep Learning, NLP, MLOps. Feel free to ask me about Python, SQL, analytics, and ML, fun fact: I love blending data with creativity and strategy.
 
 
 ## 🌐 Socials:
